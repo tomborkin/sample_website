@@ -7,3 +7,17 @@
 .nav-menu {
   text-align: right;
 }
+
+.table-spacing {
+  padding-left: 10px;
+}
+
+.book-heading{
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.blockquote-formatting{
+  font-style: italic;
+  font-size: 20px;
+}
